@@ -1,0 +1,8 @@
+.logoBotella {
+    height: 5em;
+    width: 5em;
+}
+
+.nav-link:hover {
+    background-color: rgba(255, 255, 255, 0.168)
+}
